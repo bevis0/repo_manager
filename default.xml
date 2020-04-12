@@ -13,10 +13,12 @@
     <project
         name="ReactiveX/RxJava"
         group="android,rx"
-        path="lib/RxJava" />
+        path="lib/RxJava" 
+        revision="3.x"/>
 
     <project
         name="ReactiveX/RxAndroid"
         group="android,rx"
-        path="lib/RxAndroid"/>
+        path="lib/RxAndroid"
+        revision="3.x"/>
 </manifest>
